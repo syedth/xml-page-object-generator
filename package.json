@@ -1,10 +1,18 @@
 {
   "name": "xml-page-object-generator",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "cypress",
+    "playwright",
+    "nightwatchjs",
+    "automation testing",
+    "javascript",
+    "typescript",
+    "locators",
+    "element locators"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",
