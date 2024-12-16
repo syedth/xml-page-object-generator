@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+<page name="login_page">
+		<obj name="email_input" attr="id" value="email" />
+		<obj name="password_input" attr="id" value="password" />
+		<obj name="login_button" attr="css" value="#login-form > button" />
+	</page>
+	<page name="sign_up_page">
+		<obj name="email_input" attr="css" value="div.email" />
+		<obj name="password_input" attr="css" value="div.password" />
+	</page>
+</root>

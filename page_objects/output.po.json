@@ -1,0 +1,11 @@
+{
+  "login_page": {
+    "email_input": "#email",
+    "password_input": "#password",
+    "login_button": "#login-form > button"
+  },
+  "sign_up_page": {
+    "email_input": "div.email",
+    "password_input": "div.password"
+  }
+}
